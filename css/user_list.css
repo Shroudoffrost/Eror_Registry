@@ -1,0 +1,24 @@
+.col-user-id {
+	width:30px;
+	height:30px;
+}
+
+.col-first-name {
+	width:120px;
+	height:30px;
+}
+
+.col-last-name {
+	width:120px;
+	height:30px;
+}
+
+.col-user-name {
+	width:120px;
+	height:30px;
+}
+
+#User-list {
+	float:right;
+	margin-right:100px;
+}

@@ -1,0 +1,62 @@
+.main-table {
+	display: inline-block;
+    width: 100%;
+    border-collapse: collapse;
+    text-align: left;
+    padding:3px;
+    font-family:sans-serif;
+}
+
+.link-buttons {
+	display:inline-block;
+	color:white;
+	text-shadow:0px 0px 8px rgb(0,255,0);
+	font-weight:bold;
+	width: 330px;
+	text-align:center;
+	margin-left: 130px;
+}
+
+.col-author {
+	width: 100px;
+}
+
+.col-criticality {
+	width: 140px;
+}
+
+
+.tbl-headers-left {
+	display:inline-block;
+	text-shadow:0px 0px 8px rgb(0,255,0);
+	font-weight:bold;
+}
+
+.tbl-headers-right {
+	float:right;
+	display:inline-block;
+	text-shadow:0px 0px 8px rgb(0,255,0);
+	font-weight:bold;
+}
+
+.t-cell a {
+	color:rgb(236,245,227);
+	text-decoration:none;
+	text-shadow: 0px 0px 4px rgb(0 255 0);
+	font-weight:lighter;
+}
+
+.t-cell a:visited {
+	color:rgb(214,214,214);
+	text-decoration:none;
+	text-shadow: none !important;
+	font-weight:lighter;
+}
+
+td, th {
+	vertical-align:top;
+    border: 1px solid rgb(0,154,34);
+    box-shadow: -2px 0px 3px rgb(0,154,34);
+    text-align: left;
+  	padding: 8px;
+}

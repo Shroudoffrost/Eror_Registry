@@ -1,0 +1,41 @@
+#Error-register {
+	display:inline-block;
+	margin:40px;
+	width:auto;
+	height: 700px;
+	outline:1px dashed red;
+	color: green;
+	padding:40px;
+}
+
+#comment-field {
+	text-wrap:supress;
+	display:block;
+	margin-bottom:20px;
+	width:300px;
+	height:50px;
+}
+
+#full-description-field {
+	display:block;
+	width:300px;
+	margin-bottom:20px;
+	height:300px;
+}
+
+#Urgency-field {
+	display:block;
+	margin-top:20px;
+	margin-bottom:20px;
+}
+
+#Criticality-field {
+	display:block;
+	margin-bottom:20px;
+}
+
+#Btn-register {
+	display:block;
+	margin-top:20px;
+	margin-bottom:20px;
+}

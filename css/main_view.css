@@ -1,0 +1,58 @@
+body {
+	background-color:black;
+	padding-top: 20px;
+}
+
+#Header {
+	width: 990px;
+	margin-left:auto;
+	margin-right:auto;
+	display:block;
+	height: 260px;
+	margin-bottom:30px;
+}
+
+#Logo-block {
+	display:inline-block;
+	padding: 20px;
+	width: 520px;
+}
+
+#Logo {
+    margin-top: 0px;
+    margin-left: 47px;
+	margin-bottom: 0px;
+    display: inline-block;
+    width: 501px;
+    font-size: 60px;
+    font-family:sans-serif;
+    color: rgb(0,154,34);
+}
+
+#Status-message {
+	padding:4px;
+	font-size:21px;
+	font-family:sans-serif;
+	margin:0px;
+	padding:2px;
+	margin-left:40px;
+	text-shadow:0px 0px 5px rgb(0,154,34);
+	color:rgb(208,208,208);
+}
+
+#Tool-block {
+	float:right;
+	display:inline-block;
+	width: 350px;
+}
+
+#Login-fail-message {
+	font-family:sans-serif;
+	position:absolute;
+	display:block;
+	margin-left:29%;
+	text-shadow:0px 0px 9px rgb(0,154,34);
+	margin-top:100px;
+	font-size:85px;
+	color:black;
+}
